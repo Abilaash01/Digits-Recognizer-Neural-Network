@@ -1,7 +1,7 @@
 # Basic-Neural-Network
 
 Basic neural network to predict handwritten digits
-using the MNIST dataset.
+using the digits recognizer MNIST dataset.
 
 To run use **python train.py** to train the model
 
