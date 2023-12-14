@@ -1,4 +1,4 @@
-# Digits Recognizer
+# Digits Recognizer Neural Network
 
 Basic neural network to predict handwritten digits
 using the digits recognizer MNIST dataset.
